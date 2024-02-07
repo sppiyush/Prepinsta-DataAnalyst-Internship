@@ -1,0 +1,3 @@
+I've uploaded four .csv files along with their metadata for your reference. In the accompanying Jupyter Notebook (ipynb file), you might encounter an issue where the Plotly charts aren't displaying correctly. Strangely, only the chart generated using Seaborn is visible.
+
+To address this, I've provided an HTML file that you can download and view. It contains the same information as the Jupyter Notebook but ensures that the Plotly charts are properly rendered. Please download the HTML file to access the complete and accurate visual representation of the data.
