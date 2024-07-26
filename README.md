@@ -79,4 +79,5 @@ Business Objectives:
 - What are the trends identified?
 - How could these trends apply to customers?
 - How could these trends help influence marketing strategy?
+ <br>
 ------------- piyushpkcorp@gmail.com ---------------------------
